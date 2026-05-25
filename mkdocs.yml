@@ -1,6 +1,6 @@
 site_name: Longevity Research Library
 site_description: Evidence-focused longevity enhancement research repository for a 74-year-old male
-site_url: https://example.com/longevity-research-library/
+site_url: https://TerryHilsberg.github.io/longevity-research-library/
 repo_name: longevity-research-library
 nav:
   - Home: index.md
