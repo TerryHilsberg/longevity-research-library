@@ -20,5 +20,5 @@ Follow these rules:
 6. Update `docs/updates/index.md` with a link to the new update.
 7. If the evidence materially changes a section, update the relevant topic page.
 8. Never give personal medical advice. Frame interventions as research findings and clinician discussion topics.
-9. Commit changes to git with a clear commit message.
+9. Commit changes to git with a clear commit message, push `main`, then deploy the static site with `mkdocs gh-deploy --force --clean`.
 10. Report a short summary of what changed.

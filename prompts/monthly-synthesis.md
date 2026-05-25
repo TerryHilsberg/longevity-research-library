@@ -10,4 +10,4 @@ Tasks:
 4. Add or revise open questions.
 5. Produce a monthly summary under `docs/updates/YYYY-MM-monthly-synthesis.md`.
 6. Maintain medical safety language and avoid prescriptive advice.
-7. Commit changes to git.
+7. Commit changes to git, push `main`, then deploy the static site with `mkdocs gh-deploy --force --clean`.
