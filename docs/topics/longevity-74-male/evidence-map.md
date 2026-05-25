@@ -28,7 +28,8 @@
 - Blood pressure control: **Strong**
 - ApoB/LDL-C lowering when indicated: **Strong**
 - Diabetes prevention/management: **Strong**
-- GLP-1 receptor agonists: **Strong for obesity/diabetes; monitor muscle/frailty implications**
+- SGLT2 inhibitors: **Strong for indicated type 2 diabetes/heart failure/chronic kidney disease contexts; emerging observational data suggest no excess geriatric-syndrome signal in older adults with type 2 diabetes**
+- GLP-1 receptor agonists: **Strong for obesity/diabetes; monitor muscle/frailty implications and rare safety signals such as possible NAION risk with semaglutide**
 
 ### Geroscience compounds
 

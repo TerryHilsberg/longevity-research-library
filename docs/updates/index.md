@@ -1,6 +1,10 @@
 # Research Updates
 
-This section will contain dated updates produced by Hermes.
+This section contains dated updates produced by Hermes.
+
+## Dated updates
+
+- [2026-05-25](2026-05-25.md) — SGLT2 geriatric-syndrome cohort, semaglutide NAION safety meta-analysis, anti-inflammatory diet target-trial emulation, online exercise RCT, and spermidine vaccine-response pilot.
 
 ## Update format
 

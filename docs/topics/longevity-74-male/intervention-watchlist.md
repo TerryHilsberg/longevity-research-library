@@ -22,6 +22,19 @@ This page tracks interventions that are either high priority or commonly promote
 - Watch for: overtreatment, orthostatic hypotension, polypharmacy.
 - Evidence status: strong.
 
+### SGLT2 inhibitors when clinically indicated
+
+- Primary aim: cardiorenal and metabolic risk reduction in standard indications such as type 2 diabetes, heart failure, or chronic kidney disease.
+- Why tracked: recent older-adult observational data suggest no excess geriatric-syndrome signal and lower hospitalization/mortality compared with DPP-4 inhibitors in type 2 diabetes.
+- Watch for: volume depletion, genital/urinary infections, ketoacidosis risk in susceptible settings, renal-function thresholds, perioperative/sick-day medication management, and orthostatic symptoms.
+- Evidence status: strong for indicated disease contexts; not a general longevity drug for people without indications.
+
+### GLP-1 receptor agonists when clinically indicated
+
+- Primary aim: obesity/diabetes management and cardiometabolic risk reduction in appropriate patients.
+- Watch for: gastrointestinal effects, dehydration, gallbladder/pancreatitis concerns, excessive lean-mass loss during weight reduction, frailty/nutrition issues, and rare ocular safety signals such as possible semaglutide-associated NAION.
+- Evidence status: strong for indicated obesity/diabetes contexts; safety monitoring remains important in older adults.
+
 ## Geroscience watchlist
 
 ### Rapamycin / rapalogs
