@@ -1,0 +1,43 @@
+topics:
+  longevity_74_male:
+    description: "Longevity enhancement, healthspan, and function preservation for a 74-year-old male"
+    min_quality_score: 7.5
+    arxiv_queries:
+      - 'all:"aging" AND all:"older adults"'
+      - 'all:"longevity" AND all:"human"'
+      - 'all:"frailty" AND all:"intervention"'
+      - 'all:"sarcopenia" AND all:"exercise"'
+      - 'all:"rapamycin" AND all:"aging"'
+      - 'all:"senolytic" AND all:"human"'
+    semantic_scholar_queries:
+      - "healthy aging older adults randomized trial"
+      - "longevity intervention older adults male"
+      - "sarcopenia resistance training older men meta analysis"
+      - "frailty prevention older adults exercise nutrition"
+      - "rapamycin aging human trial"
+      - "metformin longevity non diabetic older adults"
+      - "NAD precursor older adults randomized trial"
+      - "senolytics human trial aging"
+    rss_feeds:
+      - name: Nature Aging
+        url: https://www.nature.com/nataging.rss
+      - name: Aging Cell
+        url: https://onlinelibrary.wiley.com/feed/14749726/most-recent
+      - name: GeroScience
+        url: https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11357&channel-name=GeroScience
+      - name: NIA News
+        url: https://www.nia.nih.gov/news/rss.xml
+    priority_domains:
+      - resistance training
+      - aerobic fitness
+      - frailty prevention
+      - sarcopenia
+      - cardiometabolic risk
+      - cognitive aging
+      - bone health
+      - rapamycin and mTOR
+      - metformin
+      - GLP-1 receptor agonists
+      - SGLT2 inhibitors
+      - NAD precursors
+      - senolytics
