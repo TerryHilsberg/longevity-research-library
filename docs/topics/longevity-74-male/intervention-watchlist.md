@@ -61,3 +61,10 @@ This page tracks interventions that are either high priority or commonly promote
 - Why tracked: promising preclinical rationale.
 - Human evidence: early and indication-specific.
 - Safety issues: varies by compound; avoid DIY protocols.
+
+### Spermidine
+
+- Why tracked: mechanistic interest in autophagy and immune aging, plus a small older-adult pilot RCT suggesting possible improvement in COVID-vaccine response biomarkers among vaccine non-responders.
+- Human longevity evidence: early; current evidence is based on surrogate immune outcomes rather than infections, hospitalization, function, or mortality.
+- Safety issues: supplement quality and dose consistency, comorbidity interactions, renal/hepatic disease considerations, cancer/immunology contexts, and peri-procedural uncertainty.
+- Repository stance: monitor larger randomized trials with clinical infection or resilience outcomes; discuss with a clinician before use, especially with polypharmacy or chronic disease.
