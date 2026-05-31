@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-06-01](2026-06-01.md) — Combined influenza/COVID-19 vaccine durability trial, CGM randomized trial in type 2 diabetes, SGLT2 absolute-benefit model, and COVID-19 post-infection cardiovascular risk cohort.
 - [2026-05-25](2026-05-25.md) — SGLT2 geriatric-syndrome cohort, semaglutide NAION safety meta-analysis, anti-inflammatory diet target-trial emulation, online exercise RCT, and spermidine vaccine-response pilot.
 
 ## Update format

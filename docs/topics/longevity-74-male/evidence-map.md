@@ -28,7 +28,7 @@
 - Blood pressure control: **Strong**
 - ApoB/LDL-C lowering when indicated: **Strong**
 - Diabetes prevention/management: **Strong**
-- SGLT2 inhibitors: **Strong for indicated type 2 diabetes/heart failure/chronic kidney disease contexts; emerging observational data suggest no excess geriatric-syndrome signal in older adults with type 2 diabetes**
+- SGLT2 inhibitors: **Strong for indicated type 2 diabetes/heart failure/chronic kidney disease contexts; emerging observational data suggest no excess geriatric-syndrome signal in older adults with type 2 diabetes, and newer absolute-benefit models may help clinician-led targeting for primary heart-failure prevention in type 2 diabetes**
 - GLP-1 receptor agonists: **Strong for obesity/diabetes; monitor muscle/frailty implications and rare safety signals such as possible NAION risk with semaglutide**
 
 ### Geroscience compounds
@@ -41,6 +41,13 @@
 ### Diagnostics and tracking
 
 - Standard labs and risk-factor tracking: **Strong**
+- Continuous glucose monitoring (CGM): **Strong for selected insulin-treated type 2 diabetes contexts; not a general longevity tracker**
 - DEXA for bone/body composition: **Moderate to Strong depending on indication**
 - Epigenetic clocks: **Early; not yet treatment-directing**
 - Consumer biological age panels: **Use cautiously**
+
+### Infection resilience
+
+- Age-appropriate vaccination (for example influenza, COVID-19, RSV, pneumococcal, shingles per current clinical guidance): **Strong for preventing infection-related morbidity in indicated older adults**
+- Combined influenza/COVID-19 mRNA vaccines: **Promising/investigational product-specific evidence for durable immunogenicity; require authorization and outcome/surveillance data before treatment-directing use**
+- Post-COVID cardiovascular vigilance: **Moderate observational evidence for an early post-infection cardiovascular risk window, especially in older adults**
