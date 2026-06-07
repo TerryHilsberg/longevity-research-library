@@ -15,6 +15,7 @@
 - Aerobic training / VO₂ max: **Strong**
 - Balance and fall prevention: **Strong**
 - Power training for older adults: **Moderate**
+- Multidomain frailty interventions combining home/community exercise with nutrition, environmental, and daily-function supports: **Moderate**
 
 ### Nutrition and body composition
 
@@ -29,7 +30,7 @@
 - ApoB/LDL-C lowering when indicated: **Strong**
 - Diabetes prevention/management: **Strong**
 - SGLT2 inhibitors: **Strong for indicated type 2 diabetes/heart failure/chronic kidney disease contexts; emerging observational data suggest no excess geriatric-syndrome signal in older adults with type 2 diabetes, and newer absolute-benefit models may help clinician-led targeting for primary heart-failure prevention in type 2 diabetes**
-- GLP-1 receptor agonists: **Strong for obesity/diabetes; monitor muscle/frailty implications and rare safety signals such as possible NAION risk with semaglutide**
+- GLP-1 receptor agonists: **Strong for indicated obesity/diabetes contexts, with stronger disease-specific kidney/survival evidence in type 2 diabetes plus CKD; monitor muscle/frailty implications and rare or unresolved safety signals such as possible NAION risk with semaglutide**
 
 ### Geroscience compounds
 

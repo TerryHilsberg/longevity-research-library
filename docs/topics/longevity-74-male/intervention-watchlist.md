@@ -22,6 +22,13 @@ This page tracks interventions that are either high priority or commonly promote
 - Watch for: overtreatment, orthostatic hypotension, polypharmacy.
 - Evidence status: strong.
 
+### Frailty screening and multidomain support
+
+- Primary aim: identify early physical, cognitive, social, and multidimensional frailty risks before they translate into falls, hospitalization, disability, or loss of independence.
+- Why tracked: a 2026 PromeTheus randomized trial found modest improvements in function, SPPB, and frailty status from a 12-month home-based multifactorial program in prefrail/frail adults ≥70 years, while a 2026 umbrella review linked frailty and prefrailty to mortality, hospitalization, falls/fractures, cognitive decline, and institutionalization.
+- Watch for: unsafe unsupervised exercise in people with cardiovascular symptoms, high fall risk, severe osteoporosis, neuropathy, dizziness, or orthopedic limitations; undernutrition during activity increases; and medications that worsen orthostasis or sedation.
+- Evidence status: moderate for multidomain intervention effects on function/frailty status; strong as a risk-stratification concept.
+
 ### SGLT2 inhibitors when clinically indicated
 
 - Primary aim: cardiorenal and metabolic risk reduction in standard indications such as type 2 diabetes, heart failure, or chronic kidney disease.
@@ -32,8 +39,9 @@ This page tracks interventions that are either high priority or commonly promote
 ### GLP-1 receptor agonists when clinically indicated
 
 - Primary aim: obesity/diabetes management and cardiometabolic risk reduction in appropriate patients.
-- Watch for: gastrointestinal effects, dehydration, gallbladder/pancreatitis concerns, excessive lean-mass loss during weight reduction, frailty/nutrition issues, and rare ocular safety signals such as possible semaglutide-associated NAION.
-- Evidence status: strong for indicated obesity/diabetes contexts; safety monitoring remains important in older adults.
+- Why tracked: FLOW subgroup analyses reinforce kidney and survival benefit for semaglutide in type 2 diabetes plus chronic kidney disease across baseline cardiovascular-risk categories.
+- Watch for: gastrointestinal effects, dehydration, gallbladder/pancreatitis concerns, excessive lean-mass loss during weight reduction, frailty/nutrition issues, kidney-function context, retinopathy monitoring when relevant, and rare ocular safety signals such as possible semaglutide-associated NAION.
+- Evidence status: strong for indicated obesity/diabetes contexts, including disease-specific evidence in type 2 diabetes plus CKD; safety monitoring remains important in older adults and this is not a general longevity-drug endorsement.
 
 ## Geroscience watchlist
 
