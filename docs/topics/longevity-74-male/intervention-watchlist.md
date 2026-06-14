@@ -39,7 +39,7 @@ This page tracks interventions that are either high priority or commonly promote
 ### GLP-1 receptor agonists when clinically indicated
 
 - Primary aim: obesity/diabetes management and cardiometabolic risk reduction in appropriate patients.
-- Why tracked: FLOW subgroup analyses reinforce kidney and survival benefit for semaglutide in type 2 diabetes plus chronic kidney disease across baseline cardiovascular-risk categories.
+- Why tracked: FLOW subgroup analyses reinforce kidney and survival benefit for semaglutide in type 2 diabetes plus chronic kidney disease across baseline cardiovascular-risk categories. A 2026 phase 3 retatrutide trial showed large HbA1c and weight reductions in younger adults with type 2 diabetes, making triple incretin agonists an important watchlist area rather than a general longevity recommendation.
 - Watch for: gastrointestinal effects, dehydration, gallbladder/pancreatitis concerns, excessive lean-mass loss during weight reduction, frailty/nutrition issues, kidney-function context, retinopathy monitoring when relevant, and rare ocular safety signals such as possible semaglutide-associated NAION.
 - Evidence status: strong for indicated obesity/diabetes contexts, including disease-specific evidence in type 2 diabetes plus CKD; safety monitoring remains important in older adults and this is not a general longevity-drug endorsement.
 

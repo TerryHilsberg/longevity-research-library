@@ -42,6 +42,8 @@
 ### Diagnostics and tracking
 
 - Standard labs and risk-factor tracking: **Strong**
+- Handgrip strength and simple physical-performance measures as risk markers: **Moderate to Strong for risk stratification; not treatment-directing by themselves**
+- Intrinsic-capacity / multidomain geriatric assessment concepts: **Moderate for risk stratification; implementation should be clinician-guided**
 - Continuous glucose monitoring (CGM): **Strong for selected insulin-treated type 2 diabetes contexts; not a general longevity tracker**
 - DEXA for bone/body composition: **Moderate to Strong depending on indication**
 - Epigenetic clocks: **Early; not yet treatment-directing**

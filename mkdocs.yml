@@ -11,8 +11,12 @@ nav:
       - Biomarkers & Measurement: topics/longevity-74-male/biomarkers.md
       - Questions for Clinicians: topics/longevity-74-male/clinician-questions.md
       - Open Questions: topics/longevity-74-male/open-questions.md
+  - Paper Repositories:
+      - Overview: papers/index.md
+      - Doctor Alex — 7 Lifestyle Traps: papers/doctor-alex-7-lifestyle-traps-2026-06-02/index.md
   - Updates:
       - Latest Updates: updates/index.md
+      - 2026-06-14: updates/2026-06-14.md
       - 2026-06-08: updates/2026-06-08.md
       - 2026-06-01: updates/2026-06-01.md
       - 2026-05 Monthly Synthesis: updates/2026-05-monthly-synthesis.md
