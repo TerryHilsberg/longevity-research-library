@@ -30,7 +30,7 @@
 - ApoB/LDL-C lowering when indicated: **Strong**
 - Diabetes prevention/management: **Strong; long-term DPP/DPPOS follow-up supports intensive lifestyle intervention for lower multimorbidity burden in adults with prediabetes, whereas metformin did not show a comparable multimorbidity association in that analysis**
 - SGLT2 inhibitors: **Strong for indicated type 2 diabetes/heart failure/chronic kidney disease contexts; emerging observational data suggest no excess geriatric-syndrome signal in older adults with type 2 diabetes, and newer absolute-benefit models may help clinician-led targeting for primary heart-failure prevention in type 2 diabetes**
-- GLP-1 receptor agonists: **Strong for indicated obesity/diabetes contexts, with stronger disease-specific kidney/survival evidence in type 2 diabetes plus CKD and emerging older-adult tirzepatide subgroup data; monitor muscle/frailty implications and unresolved safety signals including ocular and bone/fracture risk**
+- GLP-1 receptor agonists: **Strong for indicated obesity/diabetes contexts, with stronger disease-specific cardiorenal evidence in CKD/type 2 diabetes/ASCVD-risk contexts; monitor muscle/frailty implications and unresolved safety signals including rare ocular events and bone/fracture risk**
 
 ### Geroscience compounds
 
@@ -53,4 +53,4 @@
 
 - Age-appropriate vaccination (for example influenza, COVID-19, RSV, pneumococcal, shingles per current clinical guidance): **Strong for preventing infection-related morbidity in indicated older adults**
 - Combined influenza/COVID-19 mRNA vaccines: **Promising/investigational product-specific evidence for durable immunogenicity; require authorization and outcome/surveillance data before treatment-directing use**
-- Post-COVID cardiovascular vigilance: **Moderate observational evidence for an early post-infection cardiovascular risk window, especially in older adults**
+- Post-COVID cardiovascular and long-COVID vigilance: **Moderate observational evidence for an early post-infection cardiovascular risk window, especially in older adults; newer target-trial emulation evidence does not show a meaningful third-dose effect on long-COVID incidence, so booster decisions should remain anchored to current severe-disease prevention guidance**

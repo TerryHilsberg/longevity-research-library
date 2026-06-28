@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-06-28](2026-06-28.md) — ACSM-aligned sarcopenia exercise meta-analysis, concurrent strength/aerobic exercise cognition meta-analysis, GLP-1 cardiorenal CKD meta-analysis, COVID-booster/long-COVID target-trial emulation, and semaglutide ischemic optic neuropathy watchlist signal.
 - [2026-06-21](2026-06-21.md) — Sarcopenia exercise meta-analysis, DPP/DPPOS lifestyle-vs-metformin multimorbidity follow-up, AHA older-adult heart-failure statement, tirzepatide older-adult obesity subgroup, GLP-1 fragility-fracture safety signal, and tACS cognitive-aging watchlist item.
 - [2026-06-14](2026-06-14.md) — Resistance-training programming meta-analysis, handgrip/cognitive-decline meta-analysis, intrinsic-capacity disability cohort, retatrutide phase 3 diabetes watchlist item, and investigational RSV/hMPV vaccine trial.
 - [2026-06-08](2026-06-08.md) — Home-based multifactorial frailty RCT, frailty-outcomes umbrella review, semaglutide FLOW diabetes/CKD subgroup analysis, Danish cardiometabolic drug-safety cohort, and older-adult influenza vaccine effectiveness.
