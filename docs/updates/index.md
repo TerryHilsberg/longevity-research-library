@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-07-05](2026-07-05.md) — Dynamic multicomponent exercise vs OsteoStrong in older women with low bone density, blood-flow-restriction training meta-analysis, nutritional senescence-biomarker systematic review, CagriSema phase 3 diabetes watchlist item, and investigational COVID/influenza combination vaccine trial.
 - [2026-06 Monthly Synthesis](2026-06-monthly-synthesis.md) — Monthly synthesis covering structured exercise/sarcopenia evidence, frailty and intrinsic-capacity risk markers, indicated cardiometabolic/cardiorenal therapies with geriatric safety cautions, infection-resilience nuance, and unresolved watchlist controversies.
 - [2026-06-28](2026-06-28.md) — ACSM-aligned sarcopenia exercise meta-analysis, concurrent strength/aerobic exercise cognition meta-analysis, GLP-1 cardiorenal CKD meta-analysis, COVID-booster/long-COVID target-trial emulation, and semaglutide ischemic optic neuropathy watchlist signal.
 - [2026-06-21](2026-06-21.md) — Sarcopenia exercise meta-analysis, DPP/DPPOS lifestyle-vs-metformin multimorbidity follow-up, AHA older-adult heart-failure statement, tirzepatide older-adult obesity subgroup, GLP-1 fragility-fracture safety signal, and tACS cognitive-aging watchlist item.
