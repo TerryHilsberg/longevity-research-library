@@ -30,7 +30,7 @@
 - ApoB/LDL-C lowering when indicated: **Strong**
 - Diabetes prevention/management: **Strong; long-term DPP/DPPOS follow-up supports intensive lifestyle intervention for lower multimorbidity burden in adults with prediabetes, whereas metformin did not show a comparable multimorbidity association in that analysis**
 - SGLT2 inhibitors: **Strong for indicated type 2 diabetes/heart failure/chronic kidney disease contexts; emerging observational data suggest no excess geriatric-syndrome signal in older adults with type 2 diabetes, and newer absolute-benefit models may help clinician-led targeting for primary heart-failure prevention in type 2 diabetes**
-- GLP-1 receptor agonists: **Strong for indicated obesity/diabetes contexts, with stronger disease-specific cardiorenal evidence in CKD/type 2 diabetes/ASCVD-risk contexts; monitor muscle/frailty implications and unresolved safety signals including rare ocular events and bone/fracture risk**
+- GLP-1 receptor agonists: **Strong for indicated obesity/diabetes contexts, with stronger disease-specific cardiorenal evidence in CKD/type 2 diabetes/ASCVD-risk contexts; monitor muscle/frailty implications and evolving safety signals including rare ocular events and mixed musculoskeletal/fall-fracture data**
 
 ### Geroscience compounds
 
