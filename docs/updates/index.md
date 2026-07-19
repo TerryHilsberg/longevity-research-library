@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-07-19](2026-07-19.md) — RSVPreF3 real-world hospitalization effectiveness in adults ≥60, SGLT2 inhibitor older-CKD randomized-subgroup meta-analysis, nudge-based physical activity for frailty, intrinsic-capacity/dementia cohort evidence, hypertension/activity/digital-exclusion dementia cohort evidence, resistance-training stability nuance, and biological-age clock caution items.
 - [2026-07-12](2026-07-12.md) — Physical activity and frailty meta-analysis, influenza vaccine effectiveness by frailty status, frailty/sleep and cognitive-aging cohort evidence, GLP-1/GIP fall-fracture watchlist nuance, post-hip-fracture nutrition RCT, and male CKD frailty-cognition cohort signal.
 - [2026-07-05](2026-07-05.md) — Dynamic multicomponent exercise vs OsteoStrong in older women with low bone density, blood-flow-restriction training meta-analysis, nutritional senescence-biomarker systematic review, CagriSema phase 3 diabetes watchlist item, and investigational COVID/influenza combination vaccine trial.
 - [2026-06 Monthly Synthesis](2026-06-monthly-synthesis.md) — Monthly synthesis covering structured exercise/sarcopenia evidence, frailty and intrinsic-capacity risk markers, indicated cardiometabolic/cardiorenal therapies with geriatric safety cautions, infection-resilience nuance, and unresolved watchlist controversies.
