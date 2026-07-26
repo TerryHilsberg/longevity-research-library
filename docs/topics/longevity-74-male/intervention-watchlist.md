@@ -70,6 +70,13 @@ This page tracks interventions that are either high priority or commonly promote
 - Human evidence: early and indication-specific.
 - Safety issues: varies by compound; avoid DIY protocols.
 
+### Young-donor plasma exchange / plasma “rejuvenation”
+
+- Why tracked: high public interest from parabiosis and plasma-factor geroscience narratives, with a 2026 pilot feasibility study in 12 cognitively impaired patients using large-volume young-donor plasma exchange.
+- Human longevity evidence: investigational only; current evidence does not establish cognitive, healthspan, or lifespan benefit and should be interpreted as safety/feasibility groundwork for controlled trials.
+- Safety issues: invasive procedure burden, vascular access and hemodynamic risks, transfusion/plasma reactions, infection and compatibility considerations, cost/resource use, and risk of commercial overclaiming.
+- Repository stance: not a clinician-friendly longevity intervention outside standard medical indications or ethically reviewed trials; cognitive decline should be evaluated through standard clinical pathways.
+
 ### Spermidine
 
 - Why tracked: mechanistic interest in autophagy and immune aging, plus a small older-adult pilot RCT suggesting possible improvement in COVID-vaccine response biomarkers among vaccine non-responders.

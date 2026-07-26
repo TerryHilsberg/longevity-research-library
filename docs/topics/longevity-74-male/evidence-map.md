@@ -22,7 +22,7 @@
 - Adequate protein intake: **Moderate to Strong**
 - Mediterranean-style dietary pattern: **Strong**
 - Creatine for older adults: **Moderate**
-- Aggressive calorie restriction in older adults: **Risk-dependent; caution**
+- Aggressive calorie restriction or intentional weight loss in older adults: **Risk-dependent; caution; LOSE-AF suggests supervised weight loss in older adults with overweight and persistent AF can be feasible without trial-related serious safety concerns, but it did not improve AF symptoms/burden over 8 months and lean-mass/frailty risks still need individualized monitoring**
 
 ### Cardiometabolic risk
 
@@ -47,10 +47,12 @@
 - Continuous glucose monitoring (CGM): **Strong for selected insulin-treated type 2 diabetes contexts; not a general longevity tracker**
 - DEXA for bone/body composition: **Moderate to Strong depending on indication**
 - Epigenetic clocks: **Early; not yet treatment-directing; recent cohort evidence suggests conventional risk factors can outperform epigenetic clocks for chronic-disease prediction, and muscle-aging associations remain modest/sex-specific**
+- Polygenic longevity scores: **Early for personal decision-making; a Finnish cohort found modest mortality association, but smoking behavior and conventional risk factors were more practically important predictors and scores are not treatment-directing**
 - Consumer biological age panels: **Use cautiously**
 
 ### Infection resilience
 
 - Age-appropriate vaccination (for example influenza, COVID-19, RSV, pneumococcal, shingles per current clinical guidance): **Strong for preventing infection-related morbidity in indicated older adults; recent real-world evidence in adults ≥60 supports adjuvanted RSVPreF3 effectiveness against RSV-related hospitalization during the 2023–2024 season**
+- RSV vaccination and cardiopulmonary resilience: **Moderate to Strong product/season-specific observational evidence; a large US claims study found adjuvanted RSVPreF3 vaccination associated with fewer RSV-related MACE and severe COPD/asthma exacerbation events in adults ≥60 with baseline disease, but residual confounding and current guidance still matter**
 - Combined influenza/COVID-19 mRNA vaccines: **Promising/investigational product-specific evidence for durable immunogenicity; require authorization and outcome/surveillance data before treatment-directing use**
 - Post-COVID cardiovascular and long-COVID vigilance: **Moderate observational evidence for an early post-infection cardiovascular risk window, especially in older adults; newer target-trial emulation evidence does not show a meaningful third-dose effect on long-COVID incidence, so booster decisions should remain anchored to current severe-disease prevention guidance**
