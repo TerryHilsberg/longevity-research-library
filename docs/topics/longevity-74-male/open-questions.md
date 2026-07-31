@@ -13,3 +13,4 @@ Questions this repository should keep revisiting as new evidence appears:
 - How can clinicians identify older adults most likely to gain cardiorenal benefit from GLP-1/SGLT2 therapies while minimizing dehydration, orthostasis, sarcopenia, fracture, ocular, and polypharmacy risks?
 - Can geroscience-adjacent supplements such as spermidine improve clinically meaningful immune resilience outcomes in older adults, or only short-term vaccine-response biomarkers?
 - How should clinicians stratify rare ocular safety signals such as possible semaglutide-associated NAION risk in older adults with diabetes, sleep apnea, vascular disease, or prior eye disease?
+- How should clinicians optimize RSV, influenza, COVID-19, pneumococcal, and shingles vaccine timing, product selection, and coadministration for older adults with differing frailty, immune, cardiovascular, and pulmonary risk profiles?
