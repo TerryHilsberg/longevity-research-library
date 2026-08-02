@@ -16,6 +16,7 @@
 - Balance and fall prevention: **Strong**
 - Power training for older adults: **Moderate**
 - Multidomain frailty interventions combining home/community exercise with nutrition, environmental, and daily-function supports: **Moderate**
+- Multidomain lifestyle intervention for cognitive-risk older adults: **Moderate; LatAm-FINGERS and SUPERBRAIN-MEET support structured exercise/diet/cognitive-social/vascular-risk programs for cognitive composite outcomes in at-risk older adults, but dementia-incidence, independence, and implementation evidence remain developing**
 
 ### Nutrition and body composition
 
@@ -36,7 +37,7 @@
 
 - Rapamycin/rapalogs: **Early for longevity; stronger in specific disease contexts**
 - Metformin for longevity in non-diabetics: **Early/uncertain**
-- NAD precursors: **Early; biomarker effects do not prove outcome benefit**
+- NAD precursors / NAD-boosting formulations: **Early; biomarker effects do not prove outcome benefit; a short phase 0/1b LNAD+ trial showed rapid intracellular NAD increases over 5 days without clinical endpoint improvement, reinforcing biomarker-only caution**
 - Senolytics: **Early/speculative outside trials**
 
 ### Diagnostics and tracking
@@ -46,13 +47,13 @@
 - Intrinsic-capacity / multidomain geriatric assessment concepts: **Moderate for risk stratification; implementation should be clinician-guided; newer Health and Retirement Study evidence suggests dynamic deterioration or recovery in intrinsic capacity tracks later cognitive decline and dementia risk**
 - Continuous glucose monitoring (CGM): **Strong for selected insulin-treated type 2 diabetes contexts; not a general longevity tracker**
 - DEXA for bone/body composition: **Moderate to Strong depending on indication**
-- Epigenetic clocks: **Early; not yet treatment-directing; recent cohort evidence suggests conventional risk factors can outperform epigenetic clocks for chronic-disease prediction, and muscle-aging associations remain modest/sex-specific**
+- Epigenetic clocks: **Early; not yet treatment-directing; recent cohort evidence suggests conventional risk factors can outperform epigenetic clocks for chronic-disease prediction, muscle-aging associations remain modest/sex-specific, and 2026 reliability work shows biological instability can limit interpretation even when technical reproducibility is high**
 - Polygenic longevity scores: **Early for personal decision-making; a Finnish cohort found modest mortality association, but smoking behavior and conventional risk factors were more practically important predictors and scores are not treatment-directing**
 - Consumer biological age panels: **Use cautiously**
 
 ### Infection resilience
 
-- Age-appropriate vaccination (for example influenza, COVID-19, RSV, pneumococcal, shingles per current clinical guidance): **Strong for preventing infection-related morbidity in indicated older adults; recent real-world evidence in adults ≥60 supports adjuvanted RSVPreF3 effectiveness against RSV-related hospitalization during the 2023–2024 season**
+- Age-appropriate vaccination (for example influenza, COVID-19, RSV, pneumococcal, shingles per current clinical guidance): **Strong for preventing infection-related morbidity in indicated older adults; recent real-world evidence supports adjuvanted RSVPreF3 effectiveness against RSV-related hospitalization/complications in adults ≥60 and 2025/26 Stockholm data support seasonal influenza vaccine protection against hospitalization in adults ≥65**
 - RSV vaccination and cardiopulmonary resilience: **Moderate to Strong product/season-specific observational evidence; a large US claims study found adjuvanted RSVPreF3 vaccination associated with fewer RSV-related MACE and severe COPD/asthma exacerbation events in adults ≥60 with baseline disease, but residual confounding and current guidance still matter**
 - Combined influenza/COVID-19 mRNA vaccines: **Promising/investigational product-specific evidence for durable immunogenicity; require authorization and outcome/surveillance data before treatment-directing use**
 - Post-COVID cardiovascular and long-COVID vigilance: **Moderate observational evidence for an early post-infection cardiovascular risk window, especially in older adults; newer target-trial emulation evidence does not show a meaningful third-dose effect on long-COVID incidence, so booster decisions should remain anchored to current severe-disease prevention guidance**
