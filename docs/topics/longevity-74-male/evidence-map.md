@@ -11,7 +11,7 @@
 
 ### Exercise and function
 
-- Resistance training: **Strong**
+- Resistance training: **Strong; newer RCT meta-analysis evidence supports resistance exercise as the clearest intervention for improving muscle-specific strength in adults ≥60, with nutrition and aerobic training still important but not substitutes for progressive loading**
 - Aerobic training / VO₂ max: **Strong**
 - Balance and fall prevention: **Strong**
 - Power training for older adults: **Moderate**
@@ -46,14 +46,14 @@
 - Handgrip strength and simple physical-performance measures as risk markers: **Moderate to Strong for risk stratification; not treatment-directing by themselves**
 - Intrinsic-capacity / multidomain geriatric assessment concepts: **Moderate for risk stratification; implementation should be clinician-guided; newer Health and Retirement Study evidence suggests dynamic deterioration or recovery in intrinsic capacity tracks later cognitive decline and dementia risk**
 - Continuous glucose monitoring (CGM): **Strong for selected insulin-treated type 2 diabetes contexts; not a general longevity tracker**
-- DEXA for bone/body composition: **Moderate to Strong depending on indication**
+- DEXA for bone/body composition: **Moderate to Strong depending on indication; post-fall hospitalization and fragility-fracture cohorts reinforce clinician-led bone-health evaluation after serious falls or low-trauma fractures, including in older men**
 - Epigenetic clocks: **Early; not yet treatment-directing; recent cohort evidence suggests conventional risk factors can outperform epigenetic clocks for chronic-disease prediction, muscle-aging associations remain modest/sex-specific, and 2026 reliability work shows biological instability can limit interpretation even when technical reproducibility is high**
 - Polygenic longevity scores: **Early for personal decision-making; a Finnish cohort found modest mortality association, but smoking behavior and conventional risk factors were more practically important predictors and scores are not treatment-directing**
 - Consumer biological age panels: **Use cautiously**
 
 ### Infection resilience
 
-- Age-appropriate vaccination (for example influenza, COVID-19, RSV, pneumococcal, shingles per current clinical guidance): **Strong for preventing infection-related morbidity in indicated older adults; recent real-world evidence supports adjuvanted RSVPreF3 effectiveness against RSV-related hospitalization/complications in adults ≥60 and 2025/26 Stockholm data support seasonal influenza vaccine protection against hospitalization in adults ≥65**
+- Age-appropriate vaccination (for example influenza, COVID-19, RSV, pneumococcal, shingles per current clinical guidance): **Strong for preventing infection-related morbidity in indicated older adults; recent real-world evidence supports adjuvanted RSVPreF3 effectiveness against RSV-related hospitalization/complications in adults ≥60 and 2025/26 Stockholm data support seasonal influenza vaccine protection against hospitalization in adults ≥65; observational COVID-19 vaccine-effectiveness estimates in elderly populations should be interpreted cautiously because healthy-vaccinee/frailty-related selection effects can be large**
 - RSV vaccination and cardiopulmonary resilience: **Moderate to Strong product/season-specific observational evidence; a large US claims study found adjuvanted RSVPreF3 vaccination associated with fewer RSV-related MACE and severe COPD/asthma exacerbation events in adults ≥60 with baseline disease, but residual confounding and current guidance still matter**
 - Combined influenza/COVID-19 mRNA vaccines: **Promising/investigational product-specific evidence for durable immunogenicity; require authorization and outcome/surveillance data before treatment-directing use**
 - Post-COVID cardiovascular and long-COVID vigilance: **Moderate observational evidence for an early post-infection cardiovascular risk window, especially in older adults; newer target-trial emulation evidence does not show a meaningful third-dose effect on long-COVID incidence, so booster decisions should remain anchored to current severe-disease prevention guidance**

@@ -8,7 +8,7 @@ This page tracks interventions that are either high priority or commonly promote
 
 - Primary aim: preserve muscle mass, strength, glucose disposal, mobility, and independence.
 - Watch for: orthopedic limitations, recovery, supervision needs.
-- Evidence status: strong for function and healthy aging.
+- Evidence status: strong for function and healthy aging; a 2026 RCT meta-analysis found resistance exercise was the clearest intervention for improving muscle-specific strength in adults ≥60, while non-resistance interventions were inconclusive for that normalized-strength outcome.
 
 ### Aerobic conditioning
 
