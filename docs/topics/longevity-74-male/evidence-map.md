@@ -13,9 +13,9 @@
 
 - Resistance training: **Strong; newer RCT meta-analysis evidence supports resistance exercise as the clearest intervention for improving muscle-specific strength in adults ≥60, with nutrition and aerobic training still important but not substitutes for progressive loading**
 - Aerobic training / VO₂ max: **Strong**
-- Balance and fall prevention: **Strong**
+- Balance and fall prevention: **Strong; a large 2026 Bayesian network meta-analysis of 423 RCTs in adults ≥60 supports exercise for balance and adds modality-specific nuance: perturbation/sensory/dance/agility-step approaches had favorable estimates, but selection should match the balance domain, supervision needs, fall risk, and safety rather than assuming one universally superior modality**
 - Power training for older adults: **Moderate**
-- Multidomain frailty interventions combining home/community exercise with nutrition, environmental, and daily-function supports: **Moderate**
+- Multidomain frailty interventions combining home/community exercise with nutrition, cognitive, psychological, social, environmental, and daily-function supports: **Moderate; a 2026 network meta-analysis of 22 RCTs in community-dwelling prefrail/frail older adults ranked exercise+cognitive approaches highly for frailty reduction and exercise+nutrition+psychological approaches highly for motor ability, while preserving heterogeneity/ranking uncertainty**
 - Multidomain lifestyle intervention for cognitive-risk older adults: **Moderate; LatAm-FINGERS and SUPERBRAIN-MEET support structured exercise/diet/cognitive-social/vascular-risk programs for cognitive composite outcomes in at-risk older adults, but dementia-incidence, independence, and implementation evidence remain developing**
 
 ### Nutrition and body composition
@@ -46,7 +46,7 @@
 - Handgrip strength and simple physical-performance measures as risk markers: **Moderate to Strong for risk stratification; not treatment-directing by themselves**
 - Intrinsic-capacity / multidomain geriatric assessment concepts: **Moderate for risk stratification; implementation should be clinician-guided; newer Health and Retirement Study evidence suggests dynamic deterioration or recovery in intrinsic capacity tracks later cognitive decline and dementia risk**
 - Continuous glucose monitoring (CGM): **Strong for selected insulin-treated type 2 diabetes contexts; not a general longevity tracker**
-- DEXA for bone/body composition: **Moderate to Strong depending on indication; post-fall hospitalization and fragility-fracture cohorts reinforce clinician-led bone-health evaluation after serious falls or low-trauma fractures, including in older men**
+- DEXA for bone/body composition: **Moderate to Strong depending on indication; post-fall hospitalization and fragility-fracture cohorts reinforce clinician-led bone-health evaluation after serious falls or low-trauma fractures, including in older men; weighted-vest exercise has small RCT meta-analysis support versus usual activity for BMD/body-fat outcomes but remains a cautious adjunct rather than a substitute for safe resistance/balance training or osteoporosis care**
 - Epigenetic clocks: **Early; not yet treatment-directing; recent cohort evidence suggests conventional risk factors can outperform epigenetic clocks for chronic-disease prediction, muscle-aging associations remain modest/sex-specific, and 2026 reliability work shows biological instability can limit interpretation even when technical reproducibility is high**
 - Polygenic longevity scores: **Early for personal decision-making; a Finnish cohort found modest mortality association, but smoking behavior and conventional risk factors were more practically important predictors and scores are not treatment-directing**
 - Consumer biological age panels: **Use cautiously**

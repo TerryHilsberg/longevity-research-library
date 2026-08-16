@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-08-16](2026-08-16.md) — Balance-exercise modality network meta-analysis, multicomponent frailty/prefrailty interventions, physical-activity dose-response cohort evidence for frailty/survival, weighted-vest bone-health meta-analysis, and octogenarian grip-strength hospitalization cohort data.
 - [2026-08-09](2026-08-09.md) — Resistance-exercise meta-analysis for muscle-specific strength, healthy-vaccinee bias in older-adult COVID vaccine effectiveness estimates, post-fall DXA/hip-fracture cohort evidence, fragility-fracture osteoporosis care gaps in adults ≥75, atrial-fibrillation anticoagulation/dementia cohort evidence, and physical-activity/white-matter brain-aging data.
 - [2026-08-02](2026-08-02.md) — LatAm-FINGERS multidomain lifestyle RCT, long-term physical activity and dementia cohort evidence, exergaming falls meta-analysis, unstable-versus-stable resistance training nuance, influenza vaccine effectiveness in adults ≥65, bone microarchitecture/fracture cohort evidence, and NAD/epigenetic-clock watchlist cautions.
 - [2026-07 Monthly Synthesis](2026-07-monthly-synthesis.md) — Monthly synthesis covering functional resilience/frailty, RSV and influenza vaccine evidence, indication-specific cardiometabolic therapies, cognitive-aging multidomain signals, biomarker/genetic caution, and July open questions.
