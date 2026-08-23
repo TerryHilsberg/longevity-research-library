@@ -13,7 +13,7 @@
 
 - Resistance training: **Strong; newer RCT meta-analysis evidence supports resistance exercise as the clearest intervention for improving muscle-specific strength in adults ≥60, with nutrition and aerobic training still important but not substitutes for progressive loading**
 - Aerobic training / VO₂ max: **Strong**
-- Balance and fall prevention: **Strong; a large 2026 Bayesian network meta-analysis of 423 RCTs in adults ≥60 supports exercise for balance and adds modality-specific nuance: perturbation/sensory/dance/agility-step approaches had favorable estimates, but selection should match the balance domain, supervision needs, fall risk, and safety rather than assuming one universally superior modality**
+- Balance and fall prevention: **Strong for improving balance/physical-function measures; a large 2026 Bayesian network meta-analysis of 423 RCTs in adults ≥60 supports exercise for balance and adds modality-specific nuance, while a 2026 frailty-focused meta-analysis shows short-term gait/TUG/sit-to-stand gains but limited direct fall-incidence evidence in physically frail adults**
 - Power training for older adults: **Moderate**
 - Multidomain frailty interventions combining home/community exercise with nutrition, cognitive, psychological, social, environmental, and daily-function supports: **Moderate; a 2026 network meta-analysis of 22 RCTs in community-dwelling prefrail/frail older adults ranked exercise+cognitive approaches highly for frailty reduction and exercise+nutrition+psychological approaches highly for motor ability, while preserving heterogeneity/ranking uncertainty**
 - Multidomain lifestyle intervention for cognitive-risk older adults: **Moderate; LatAm-FINGERS and SUPERBRAIN-MEET support structured exercise/diet/cognitive-social/vascular-risk programs for cognitive composite outcomes in at-risk older adults, but dementia-incidence, independence, and implementation evidence remain developing**
@@ -27,11 +27,11 @@
 
 ### Cardiometabolic risk
 
-- Blood pressure control: **Strong**
+- Blood pressure control: **Strong; exercise is a core non-pharmacological adjunct, and a 2026 RCT network/dose-response meta-analysis in adults ≥45 found BP reductions across modalities, with combined/circuit aerobic-resistance approaches ranking favorably but not definitively superior**
 - ApoB/LDL-C lowering when indicated: **Strong**
 - Diabetes prevention/management: **Strong; long-term DPP/DPPOS follow-up supports intensive lifestyle intervention for lower multimorbidity burden in adults with prediabetes, whereas metformin did not show a comparable multimorbidity association in that analysis**
 - SGLT2 inhibitors: **Strong for indicated type 2 diabetes/heart failure/chronic kidney disease contexts; older-adult randomized-subgroup meta-analysis in non-dialysis CKD supports renal and heart-failure benefit while reinforcing monitoring for genital infections and volume depletion/hypotension; emerging observational data suggest no excess geriatric-syndrome signal in older adults with type 2 diabetes, and newer absolute-benefit models may help clinician-led targeting for primary heart-failure prevention in type 2 diabetes**
-- GLP-1 receptor agonists: **Strong for indicated obesity/diabetes contexts, with stronger disease-specific cardiorenal evidence in CKD/type 2 diabetes/ASCVD-risk contexts; monitor muscle/frailty implications and evolving safety signals including rare ocular events and mixed musculoskeletal/fall-fracture data**
+- GLP-1 receptor agonists: **Strong for indicated obesity/diabetes contexts, with stronger disease-specific cardiorenal evidence in CKD/type 2 diabetes/ASCVD-risk contexts; monitor muscle/frailty implications and evolving safety signals including rare ocular events and mixed musculoskeletal/fall-fracture data. A 2026 body-composition meta-analysis suggests adiposity reduction is plausible but muscle quantity/quality evidence remains low-certainty, so older-adult monitoring should include nutrition, strength, and physical function rather than body weight alone**
 
 ### Geroscience compounds
 
