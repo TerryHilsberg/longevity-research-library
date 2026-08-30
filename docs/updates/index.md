@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-08-30](2026-08-30.md) — Eccentric-overload training meta-analysis for older-adult lower-limb strength/power, hospitalized-frailty outcome meta-analysis, influenza-vaccine severe-outcome cohort evidence in adults ≥65, semaglutide FLOW infection analysis, dapagliflozin after TAVI, and GLP-1 incident-cancer watchlist caution.
 - [2026-08-23](2026-08-23.md) — Exercise modality/dose meta-analyses for blood pressure and HbA1c in older adults, frailty/fall-function exercise evidence, GLP-1 body-composition watchlist caution, and resistance-training executive-function meta-analysis.
 - [2026-08-16](2026-08-16.md) — Balance-exercise modality network meta-analysis, multicomponent frailty/prefrailty interventions, physical-activity dose-response cohort evidence for frailty/survival, weighted-vest bone-health meta-analysis, and octogenarian grip-strength hospitalization cohort data.
 - [2026-08-09](2026-08-09.md) — Resistance-exercise meta-analysis for muscle-specific strength, healthy-vaccinee bias in older-adult COVID vaccine effectiveness estimates, post-fall DXA/hip-fracture cohort evidence, fragility-fracture osteoporosis care gaps in adults ≥75, atrial-fibrillation anticoagulation/dementia cohort evidence, and physical-activity/white-matter brain-aging data.
