@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-09-27](2026-09-27.md) — Cochrane fall-prevention meta-analysis, Life’s Essential 8 unhealthy-aging trajectories, older-adult heart-failure GDMT meta-analysis, frailty-trajectory cardiovascular-risk cohort evidence, and dietetic-counseling/digital-tool RCT nuance.
 - [2026-09-20](2026-09-20.md) — RSV vaccine effectiveness in Medicare older adults, wearable-measured sedentary fragmentation and cardiovascular outcomes, HbA1c cardiometabolic multimorbidity prediction, NAD+ frailty biomarker caution, smoking cessation epigenetic-clock data, and depressive-symptom/dementia-mortality cohort evidence.
 - [2026-09-13](2026-09-13.md) — BMJ exercise-for-bone-health network meta-analysis, BMJ prescribing-cascade cohort safety study, adiposity-frailty stroke-risk trajectories, Alzheimer’s pathology plus cognitive-resilience cohort evidence, and strength/balance training neuroimaging RCT.
 - [2026-08 Monthly Synthesis](2026-08-monthly-synthesis.md) — Monthly synthesis covering exercise/function as the strongest healthspan platform, frailty and hospitalization resilience, infection-resilience vaccine evidence with healthy-vaccinee-bias caution, disease-specific cardiometabolic drug evidence, bone-health evaluation after falls/fractures, and geroscience biomarker cautions.
