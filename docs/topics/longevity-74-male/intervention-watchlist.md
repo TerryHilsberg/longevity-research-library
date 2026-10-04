@@ -61,8 +61,8 @@ This page tracks interventions that are either high priority or commonly promote
 ### NAD precursors
 
 - Why tracked: mechanistic interest and commercial popularity.
-- Human outcome evidence: limited; a 2026 short phase 0/1b trial of oral LNAD+ in healthy adults aged 45–75 increased intracellular NAD over 5 days but did not show corrected clinical, vital-sign, wellbeing, or wearable-derived endpoint improvement. A 2026 Itabashi community cohort linked lower whole-blood NAD+ with frailty in adults ≥65, but the association weakened after hematocrit adjustment and does not establish benefit from supplementation.
-- Repository stance: require clinically meaningful outcomes, not just NAD-level changes; treat proprietary NAD-boosting formulations as early/watchlist evidence rather than proven longevity interventions.
+- Human outcome evidence: limited; a 2026 short phase 0/1b trial of oral LNAD+ in healthy adults aged 45–75 increased intracellular NAD over 5 days but did not show corrected clinical, vital-sign, wellbeing, or wearable-derived endpoint improvement. A 2026 Itabashi community cohort linked lower whole-blood NAD+ with frailty in adults ≥65, but the association weakened after hematocrit adjustment and does not establish benefit from supplementation. A 2026 narrative review found IV NAD+ / IV NAD+ precursor evidence remains sparse, mostly small uncontrolled studies, observational reports, and case reports, with uncertain durability, dosing, and long-term safety.
+- Repository stance: require clinically meaningful outcomes, not just NAD-level changes; treat proprietary NAD-boosting formulations and IV NAD+ wellness infusions as early/watchlist evidence rather than proven longevity interventions. IV use adds procedure-specific issues such as infusion reactions, vascular access, fluid/electrolyte concerns, chest discomfort, and comorbidity/polypharmacy context.
 
 ### Senolytics
 

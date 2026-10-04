@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-10-05](2026-10-05.md) — Structured exercise and epicardial-fat RCT evidence, intrinsic-capacity/frailty and gait-speed risk stratification, BNP functional-decline biomarker context, cautious probiotic/synbiotic aging review, and IV NAD+ wellness-watchlist caution.
 - [2026-09 Monthly Synthesis](2026-09-monthly-synthesis.md) — Monthly synthesis covering fall prevention and frailty/function, cardiometabolic health tied to intrinsic capacity, RSV vaccine severe-outcome evidence with observational-bias caution, medication-review/prescribing-cascade safety, bone-health exercise evidence, and geroscience biomarker cautions.
 - [2026-09-27](2026-09-27.md) — Cochrane fall-prevention meta-analysis, Life’s Essential 8 unhealthy-aging trajectories, older-adult heart-failure GDMT meta-analysis, frailty-trajectory cardiovascular-risk cohort evidence, and dietetic-counseling/digital-tool RCT nuance.
 - [2026-09-20](2026-09-20.md) — RSV vaccine effectiveness in Medicare older adults, wearable-measured sedentary fragmentation and cardiovascular outcomes, HbA1c cardiometabolic multimorbidity prediction, NAD+ frailty biomarker caution, smoking cessation epigenetic-clock data, and depressive-symptom/dementia-mortality cohort evidence.
