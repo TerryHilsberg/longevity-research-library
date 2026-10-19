@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-10-19](2026-10-19.md) — Primary-care fall-prevention cluster RCT, antihypertensive-deprescribing uncertainty in long-term care, oral orforglipron cardiovascular-safety trial, RSV/PCV20 co-administration, longitudinal lean-mass determinants, intrinsic-capacity/dementia cohort evidence, and alcohol-related fracture-risk context.
 - [2026-10-11](2026-10-11.md) — Vitamin D deficiency/supplementation cohort evidence, retatrutide TRIUMPH-2 incretin watchlist update, exercise and qigong meta-analyses for MCI, telephone loneliness-intervention RCT, and immune-aging biomarker context.
 - [2026-10-05](2026-10-05.md) — Structured exercise and epicardial-fat RCT evidence, intrinsic-capacity/frailty and gait-speed risk stratification, BNP functional-decline biomarker context, cautious probiotic/synbiotic aging review, and IV NAD+ wellness-watchlist caution.
 - [2026-09 Monthly Synthesis](2026-09-monthly-synthesis.md) — Monthly synthesis covering fall prevention and frailty/function, cardiometabolic health tied to intrinsic capacity, RSV vaccine severe-outcome evidence with observational-bias caution, medication-review/prescribing-cascade safety, bone-health exercise evidence, and geroscience biomarker cautions.
