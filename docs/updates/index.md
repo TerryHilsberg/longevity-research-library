@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-10 Monthly Synthesis](2026-10-monthly-synthesis.md) — Monthly synthesis covering exercise and fall prevention, multidomain function tracking, individualized blood-pressure care, muscle/bone/nutrition during weight loss, medication-review limits, vaccine delivery, and geroscience cautions.
 - [2026-10-26](2026-10-26.md) — Older-adult hypertension guidance, sarcopenia nutrition review, GLP-1 skeletal-safety uncertainty, exercise dose for MCI, sleep/cognition target-trial emulation, medication-review outcome limits, physical activity and infection mortality in cognitive impairment, and frailty-stratified DapaTAVI evidence.
 - [2026-10-19](2026-10-19.md) — Primary-care fall-prevention cluster RCT, antihypertensive-deprescribing uncertainty in long-term care, oral orforglipron cardiovascular-safety trial, RSV/PCV20 co-administration, longitudinal lean-mass determinants, intrinsic-capacity/dementia cohort evidence, and alcohol-related fracture-risk context.
 - [2026-10-11](2026-10-11.md) — Vitamin D deficiency/supplementation cohort evidence, retatrutide TRIUMPH-2 incretin watchlist update, exercise and qigong meta-analyses for MCI, telephone loneliness-intervention RCT, and immune-aging biomarker context.
