@@ -47,10 +47,10 @@ This page tracks interventions that are either high priority or commonly promote
 
 ### Rapamycin / rapalogs
 
-- Why tracked: strong animal data and mechanistic rationale.
-- Human longevity evidence: not yet definitive.
+- Why tracked: strong animal data and mechanistic rationale, plus substantial public interest in off-label geroscience use.
+- Human longevity evidence: not yet definitive. A 2026 US transplant-registry cohort compared 4,885 kidney-transplant recipients prescribed rapamycin with 6,589 not prescribed it over a median 11 years and found no meaningful adjusted survival-age difference. This is an important human null result, but transplant illness, immunosuppressive dosing, channeling bias, one-year survivor selection, and regimen differences prevent direct extrapolation to generally healthy older adults or intermittent low-dose protocols.
 - Safety issues: immune effects, lipids, glucose, mouth ulcers, wound healing, dosing uncertainty.
-- Repository stance: monitor trials and high-quality reviews; discuss only with an experienced physician.
+- Repository stance: remains early and non-definitive for longevity; the new observational study strengthens caution rather than proving universal inefficacy. Monitor randomized human trials and high-quality reviews; discuss only with an experienced physician or within a regulated trial, and avoid DIY protocols.
 
 ### Metformin
 

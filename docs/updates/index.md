@@ -4,6 +4,7 @@ This section contains dated updates produced by Hermes.
 
 ## Dated updates
 
+- [2026-11-09](2026-11-09.md) — Frailty-stratified statin discontinuation, exercise/nutrition for sarcopenia, resistance training in frailty, exercise and sleep, resistance training for probable MCI, vertebral-fracture rehabilitation, oldest-old intrinsic capacity, an investigational RSV vaccine trial, and rapamycin survival caution.
 - [2026-11-02](2026-11-02.md) — ASPREE intrinsic-capacity aspirin caution, age-stratified GLP-1 cardiovascular evidence, SGLT2 safety at age ≥75, digital balance training, frailty nutrition/exercise, blood-flow-restriction safety, male fracture-risk assessment, orthostatic recovery and falls, enhanced influenza vaccines, and metformin brain-aging watchlist evidence.
 - [2026-10 Monthly Synthesis](2026-10-monthly-synthesis.md) — Monthly synthesis covering exercise and fall prevention, multidomain function tracking, individualized blood-pressure care, muscle/bone/nutrition during weight loss, medication-review limits, vaccine delivery, and geroscience cautions.
 - [2026-10-26](2026-10-26.md) — Older-adult hypertension guidance, sarcopenia nutrition review, GLP-1 skeletal-safety uncertainty, exercise dose for MCI, sleep/cognition target-trial emulation, medication-review outcome limits, physical activity and infection mortality in cognitive impairment, and frailty-stratified DapaTAVI evidence.
